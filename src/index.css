@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+    html {
+      box-sizing: border-box;
+      font-family: Proxima Nova, system-ui, sans-serif;
+    }
+    *, *:before, *:after {
+      box-sizing: inherit;
+    }
+  }

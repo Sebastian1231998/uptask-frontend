@@ -1,0 +1,19 @@
+.barra-azul{
+  overflow: auto;
+}
+
+.barra-azul::-webkit-scrollbar-thumb, .modal-mercado::-webkit-scrollbar-thumb {
+    background-color: #e1e1e1;
+  }
+  
+  .barra-azul::-webkit-scrollbar, .modal-mercado::-webkit-scrollbar {
+    width: 0px;
+  }
+
+  .barra-gris::-webkit-scrollbar-thumb, .modal-mercado::-webkit-scrollbar-thumb {
+    background-color: #5d5d5d;
+  }
+  
+  .barra-gris::-webkit-scrollbar, .modal-mercado::-webkit-scrollbar {
+    width: 7px;
+  }

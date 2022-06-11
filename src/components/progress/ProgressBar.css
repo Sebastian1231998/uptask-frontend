@@ -1,0 +1,26 @@
+.width-25{
+    width: 25%;
+    background-color: #ffba0f;
+}
+
+.width-0{
+    width: 0%;
+}
+
+.width-40{
+    width: 40%;
+    background-color: darkgoldenrod;
+}
+
+.width-50{
+    width: 50%;
+    background-color:#8bf77b
+}
+.width-80{
+    width: 80%;
+    background-color: #1ed10e
+}
+.width-100{
+    width: 100%;
+    background-color: #277809;
+}

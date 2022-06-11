@@ -1,0 +1,35 @@
+.general {
+
+    padding: 1rem;
+    border-radius: 20px 4px 4px 20px;
+    margin: 0 1rem 0 1rem;
+}
+
+.direction_envia {
+    float: right;
+}
+
+.direction_recibe {
+    float: left;
+}
+
+.color_envia {
+    background-color: white;
+}
+
+.color_recibe {
+    background-color: #c1c1f9;
+}
+
+.customeTheme {
+    color: white !important;
+    background-color: orange !important;
+    
+    &.place-top {
+        &:after {
+            border-top-color: orange !important;
+            border-top-style: solid !important;
+            border-top-width: 6px !important;
+        }
+    }
+}
